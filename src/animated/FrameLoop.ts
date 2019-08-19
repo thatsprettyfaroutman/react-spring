@@ -71,7 +71,8 @@ const update = () => {
               : config.initialVelocity
 
           // If we lost a lot of frames just jump to the end.
-          if (time > lastTime + 64) lastTime = time
+          // if (time > lastTime + 64) lastTime = time
+
           // http://gafferongames.com/game-physics/fix-your-timestep/
           let numSteps = Math.floor(time - lastTime)
           for (let i = 0; i < numSteps; ++i) {
