@@ -127,9 +127,9 @@
     }
   },
   "dist/renderprops.js": {
-    "bundled": 66797,
-    "minified": 32950,
-    "gzipped": 11394
+    "bundled": 66808,
+    "minified": 32936,
+    "gzipped": 11386
   },
   "dist/renderprops-addons.js": {
     "bundled": 8318,
@@ -142,19 +142,19 @@
     "gzipped": 2008
   },
   "dist/renderprops-native.js": {
-    "bundled": 61366,
-    "minified": 29741,
-    "gzipped": 9942
+    "bundled": 61377,
+    "minified": 29727,
+    "gzipped": 9935
   },
   "dist/renderprops-universal.js": {
-    "bundled": 49087,
-    "minified": 23177,
-    "gzipped": 7220
+    "bundled": 49098,
+    "minified": 23163,
+    "gzipped": 7213
   },
   "dist/renderprops-konva.js": {
-    "bundled": 60176,
-    "minified": 29110,
-    "gzipped": 9928
+    "bundled": 60187,
+    "minified": 29096,
+    "gzipped": 9921
   },
   "dist/web.cjs.js": {
     "bundled": 71965,
@@ -167,9 +167,9 @@
     "gzipped": 10537
   },
   "dist/renderprops.cjs.js": {
-    "bundled": 77392,
-    "minified": 36683,
-    "gzipped": 11921
+    "bundled": 77403,
+    "minified": 36669,
+    "gzipped": 11910
   },
   "dist/renderprops-addons.cjs.js": {
     "bundled": 9833,
@@ -177,19 +177,19 @@
     "gzipped": 1892
   },
   "dist/renderprops-native.cjs.js": {
-    "bundled": 72258,
-    "minified": 33567,
-    "gzipped": 10465
+    "bundled": 72269,
+    "minified": 33553,
+    "gzipped": 10452
   },
   "dist/renderprops-universal.cjs.js": {
-    "bundled": 59263,
-    "minified": 26748,
-    "gzipped": 7733
+    "bundled": 59274,
+    "minified": 26734,
+    "gzipped": 7720
   },
   "dist/renderprops-konva.cjs.js": {
-    "bundled": 70422,
-    "minified": 32717,
-    "gzipped": 10442
+    "bundled": 70433,
+    "minified": 32703,
+    "gzipped": 10429
   },
   "dist/universal.cjs.js": {
     "bundled": 56205,
